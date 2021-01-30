@@ -1,11 +1,11 @@
 # HomeAutomation
 
-1. Raspberry Pi 
-1.1 Raspberry PI Imager 
-1.2 Raspberry Pi OS Full
-1.3 Enable SSH
-1.4 IP Adress fix: 192.168.150.4
-1.5 user - pw 
+1. Raspberry Pi   
+1.1 Raspberry PI Imager   
+1.2 Raspberry Pi OS Full  
+1.3 Enable SSH  
+1.4 IP Adress fix: 192.168.150.4  
+1.5 user - pw   
 
 
 2. Local PC
