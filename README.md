@@ -1,5 +1,9 @@
 # HomeAutomation
 
+von https://ei23.de/diy-smarthome/
+
+
+
 1. Raspberry Pi   
 1.1 Raspberry PI Imager   
 1.2 Raspberry Pi OS Full  
