@@ -18,7 +18,7 @@
       bash ei23.sh
 3.2 User
    | User |  nutzung | spalte3 |
-   |------|----------|
+   |------|----------| ------- |
    | pi | user für pi |
    | prog | user für nodered | flipper |
    | 
