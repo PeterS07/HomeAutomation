@@ -21,4 +21,4 @@
    |------|----------| ------- |
    | pi | user für pi |
    | prog | user für nodered | flipper |
-   | 
+   | homemqtt| mqtt | flippermqtt |
