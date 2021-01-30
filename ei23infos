@@ -1,0 +1,25 @@
+Zunächst werden auf dem rohen Raspbian OS notwendige und nützliche Programme und Frameworks wie Docker Python etc. installiert.
+Anschließend wird NodeRED nativ installiert, also nicht als Docker Container, das bringt nochmal einige Zusatzfeatures und eine einfachere Konfiguration ohne lästige Workarounds.
+Außerdem können Log2Ram (für weniger SD-Karten Schreibvorgänge), RTL_SDR Software für beispielsweise 433Mhz Sensoren und rpiClone für einfache Backups direkt mit installiert werden.
+Folgende Programme sind mit dem Skript derzeit automatisiert installierbar und kommen teilweise auch schon mit einigen Addons (eigene Erweiterung natürlich möglich):
+
+- NodeRED (Nativ) mit vielen Addons
+- Portainer (Docker-Container)
+- Grafana  (Docker-Container)
+- InfluxDB  (Docker-Container)
+- Mosquitto MQTT  (Docker-Container)
+- NextcloudPi (Docker-Container)
+- MotionEye (Docker-Container)
+- Tasmoadmin (Docker-Container)
+- Log2RAM (Nativ)
+- RPI-clone (Nativ)
+- Pihole (Docker-Container)
+- HomeAssistant (nicht HassIO) mit einigen Addons (Docker-Container)
+- SDR DVB-T Stick (Native)
+- Nginx SSL Reverse Proxy
+- RHASSPY (Docker-Container)
+- HomeBridge (Docker-Container)
+- ZigBee2MQTT (Docker-Container)
+- Openhab (Docker-Container)
+- ioBroker (Docker-Container)
+- FHEM (Docker-Container)
