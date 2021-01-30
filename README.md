@@ -6,9 +6,9 @@ von https://ei23.de/diy-smarthome/
 
 1. Raspberry Pi   
 1.1 Raspberry PI Imager   
-1.2 Raspberry Pi OS Full  
-1.3 Enable SSH  
-1.4 IP Adress fix: 192.168.150.4  
+1.2 Raspberry Pi OS Lite  
+1.3 Enable SSH mit ssh.txt  
+1.4 IP Adress fix: 192.168.150.24  
 1.5 user - pw   
 
 
@@ -23,6 +23,6 @@ von https://ei23.de/diy-smarthome/
 3.2 User
    | User |  nutzung | spalte3 |
    |------|----------| ------- |
-   | pi | user für pi |
-   | prog | user für nodered | flipper |
+   | pi | user für pi |  |
+   | homered | user für nodered | flipperred|
    | homemqtt| mqtt | flippermqtt |
