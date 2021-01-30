@@ -11,11 +11,11 @@
 2. Local PC
 2.1 Putty
 
-3. ei23 von  ei23.de
-3.1 Zeile 1 (damit wird das Skript geladen)
-      wget -q "https://ei23.de/softwarehub/smarthome/f7a1d1e13827f0d6b95c53ee54eaccd1/ei23.sh" -O ei23.sh
-    Zeile 2 (damit wird das Skript ausgeführt)
-      bash ei23.sh
+3. ei23 von  ei23.de  
+3.1 Zeile 1 (damit wird das Skript geladen)  
+      wget -q "https://ei23.de/softwarehub/smarthome/f7a1d1e13827f0d6b95c53ee54eaccd1/ei23.sh" -O ei23.sh  
+    Zeile 2 (damit wird das Skript ausgeführt)  
+      bash ei23.sh  
 3.2 User
    | User |  nutzung | spalte3 |
    |------|----------| ------- |
