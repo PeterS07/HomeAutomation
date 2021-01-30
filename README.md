@@ -20,6 +20,10 @@ von https://ei23.de/diy-smarthome/
       wget -q "https://ei23.de/softwarehub/smarthome/f7a1d1e13827f0d6b95c53ee54eaccd1/ei23.sh" -O ei23.sh  
     Zeile 2 (damit wird das Skript ausgeführt)  
       bash ei23.sh  
+      
+      installiert https://github.com/PeterS07/HomeAutomation/blob/main/ei23infos
+            
+      
 3.2 User
    | User |  nutzung | spalte3 |
    |------|----------| ------- |
