@@ -25,10 +25,10 @@ von https://ei23.de/diy-smarthome/
             
       
 3.2 User
-   | User |  nutzung | spalte3 |
-   |------|----------| ------- |
+   | User |  nutzung | spalte3 | port |
+   |------|----------| ------- | ---- |
    | pi | user für pi |  |
    | homered | user  für nodered | flipperred|
    | homemqtt| mqtt | flippermqtt |
    | admin | portainer | dockerflipper |
-   | admin | grafana | flippergrafana |
+   | admin | grafana | flippergrafana |3000 |
