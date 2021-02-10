@@ -30,5 +30,5 @@ von https://ei23.de/diy-smarthome/
    | pi | user für pi |  |
    | homered | user  für nodered | flipperred|
    | homemqtt| mqtt | flippermqtt |
-   | admin | portainer | dockerflipper |
+   | admin | portainer | dockerflipper | 9000 |
    | admin | grafana | flippergrafana |3000 |
