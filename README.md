@@ -32,3 +32,10 @@ von https://ei23.de/diy-smarthome/
    | homemqtt| mqtt | flippermqtt |
    | admin | portainer | dockerflipper | 9000 |
    | admin | grafana | flippergrafana |3000 |
+   
+   
+   
+   4. Info
+   
+   MGTT und Dashboard: https://www.youtube.com/watch?v=_jMyAnPjkLQ
+   
