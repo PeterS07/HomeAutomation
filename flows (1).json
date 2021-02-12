@@ -1,0 +1,46 @@
+[
+    {
+        "id": "3c56b4e9.9af89c",
+        "type": "ui_gauge",
+        "z": "9b3ddcd0.88ca3",
+        "name": "Temperatur",
+        "group": "dec12424.353e58",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Temperatur",
+        "label": "units",
+        "format": "{{value}}",
+        "min": "-15",
+        "max": "30",
+        "colors": [
+            "#0065b3",
+            "#fa6400",
+            "#fa0000"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 480,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "dec12424.353e58",
+        "type": "ui_group",
+        "name": "Wetter",
+        "tab": "c8fbad35.a6514",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "c8fbad35.a6514",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]
